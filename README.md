@@ -18,3 +18,4 @@ I'm Lopamudra Nayak, currently working as a **PhD research student** in High Ene
 <a href="https://github.com/lophy95/diabetics_prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lophy95&repo=diabetics_prediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
+
