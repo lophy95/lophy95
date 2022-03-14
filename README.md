@@ -14,3 +14,7 @@ I'm Lopamudra Nayak, currently working as a **PhD research student** in High Ene
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lophy95&langs_count=5&theme=tokyonight)]()
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lophy95&show_icons=true&theme=radical)
+
+<a href="https://github.com/lophy95/diabetics_prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lophy95&repo=diabetics_prediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
