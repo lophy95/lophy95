@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Lopa! 
+### Hi there 👋, 
 I'm Lopamudra Nayak, currently working as a **PhD research student** in High Energy Physics, a **Data Science and Machine Learning** Practitioner and Learner. Excited to apply the quantitative and data analysis relevant skills to real-world applications.
 
 ![](https://komarev.com/ghpvc/?username=lophy95)
