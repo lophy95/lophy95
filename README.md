@@ -6,7 +6,7 @@ I'm Lopamudra Nayak, currently working as a **PhD research student** in High Ene
 ### About 
 - 🔭 I’m currently working as a **PhD Research Fellow** at IIT, Hyderabad, India. My research is aimed at answering the questions concerned with the formation of the universe and its existence today. To answer these questions we analyze the petabyte-scale data generated using the particle collider experiment Belle II in Japan.
 - 🔭 I am involved in multiple physics analysis projects. Through my research, I have gained an excellent knowledge of statistical data analysis and computer programming in **C++**, **Python**, and **Linux**.
-- 🌱 I’m currently learning [**Data Science and Machine learing**] (https://app.datacamp.com/learn/career-tracks/data-scientist-with-python) from Online courses (**Datacamp, Coursera**),**Kaggle** and reading books.
+- 🌱 I’m currently learning **Data Science and Machine learing** from Online courses (**Datacamp, Coursera**),**Kaggle** and reading books.
 - 👯 I’m looking to collaborate on **Data Science, Machine Learning and Deep Learning**.
 - 👨‍💻 All of my projects are available at [**Github** ](https://github.com/lophy95?tab=repositories).
 - 📝 I write articles on [**Medium**](https://medium.com/@lophy95).
