@@ -12,7 +12,5 @@ I'm Lopamudra Nayak, currently working as a **PhD research student** in High Ene
 - 📝 I write articles on [**Medium**](https://medium.com/@lophy95).
 - 📫 How to reach me: [**Linkedin**](www.linkedin.com/in/lopamudra-nayak-3190731ab), [**Twitter**](https://twitter.com/nayak_lopa95), [**Kaggle**](https://www.kaggle.com/alldnayak), [**Email**](lopamudra.nayakcda@gmail.com)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lophy95&langs_count=5&theme=tokyonight)]()
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lophy95&show_icons=true&theme=radical)
 
 
